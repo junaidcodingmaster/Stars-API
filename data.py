@@ -16,14 +16,23 @@ def star_img(star_name):
     b = a.json()
     c = dict(b)
     d = c.get("collection")
-    e = d["items"][0]
+    
+    try :
+        e = d["items"][0]
+    except IndexError:
+        e = ""
+    else : 
+        pass
 
-    df = pd.json_normalize(e)
-    f = df.get("href")[0]
+    if e != "":
+        df = pd.json_normalize(e)
+        f = df.get("href")[0]
 
-    g = requests.get(f)
-    h = g.json()
-    ia = list(h)
-    j = len(ia) - 2
-    k = ia[j]
-    return k
+        g = requests.get(f)
+        h = g.json()
+        ia = list(h)
+        j = len(ia) - 2
+        k = ia[j]
+        return k
+    else :
+        return "ImageNotFound"

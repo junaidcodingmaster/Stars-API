@@ -1,8 +1,10 @@
 # Stars API
 
-Stars API , get all stars in universe at one place . 
+Stars API , get all stars in universe at one place .\
 
-_VERSION-1_
+_This is the latest version of Stars-API ._
+
+_version- 2_
 
 This Stars API is made by [Junaid](https://www.abujuni.dev) . It also includes images .
 ![demo1](https://i.ibb.co/3fgSsfz/2846f3d21b0c.png)
@@ -38,6 +40,7 @@ http://127.0.0.1:5000/stars?name=sun
 _Note_:_Image URL's not inclued in this api , you want [Star Images Search API](#star-images-search-api) to get images for every star._
 
 ## Star Images Search API
+
 
 ![demo3](https://i.ibb.co/cDnL3WT/01ed951737e5.png)
 
