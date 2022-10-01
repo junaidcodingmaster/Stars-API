@@ -2,9 +2,7 @@
 
 Stars API , get all stars in universe at one place .\
 
-_This is the latest version of Stars-API ._
-
-_version- 2_
+_This is the latest version of Stars-API . [version- 2]_
 
 This Stars API is made by [Junaid](https://www.abujuni.dev) . It also includes images .
 ![demo1](https://i.ibb.co/3fgSsfz/2846f3d21b0c.png)
