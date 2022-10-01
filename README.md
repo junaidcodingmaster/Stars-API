@@ -8,6 +8,8 @@ This Stars API is made by [Junaid](https://www.abujuni.dev) . It also includes i
 ![demo1](https://i.ibb.co/3fgSsfz/2846f3d21b0c.png)
 _Star Data by [Junaid](https://www.abujuni.dev) ._
 
+**Stars API is Now online at [starsapi.abujuni.dev](https://starsapi.abujuni.dev) (or) If any error than use : [starsapi001.wayscript.cloud](https://nebulous-impala-lab.wayscript.cloud/)**
+
 ## Index
 
 - Stars Data API
