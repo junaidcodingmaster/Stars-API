@@ -1,6 +1,8 @@
 # Stars API
 
-Stars API , get all stars in universe at one place . _VERSION-0.1_
+Stars API , get all stars in universe at one place . 
+
+_VERSION-1_
 
 This Stars API is made by [Junaid](https://www.abujuni.dev) . It also includes images .
 ![demo1](https://i.ibb.co/3fgSsfz/2846f3d21b0c.png)
