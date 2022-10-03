@@ -1,4 +1,4 @@
-# Stars API
+# Stars API 🌟✨💫
 
 Stars API , get all stars in universe at one place .
 
