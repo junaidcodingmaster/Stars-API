@@ -47,3 +47,5 @@ def search_img():
     return b
 
 
+if __name__ == '__main__':
+    app.run()
