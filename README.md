@@ -1,5 +1,4 @@
 # Stars API 🌟✨💫
-
 Stars API , get all stars in universe at one place .
 
 _This is the latest version of Stars-API . [version- 2]_
