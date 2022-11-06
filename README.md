@@ -8,7 +8,7 @@ This Stars API is made by [Junaid](https://www.abujuni.dev) . It also includes i
 ![demo1](https://i.ibb.co/3fgSsfz/2846f3d21b0c.png)
 _Star Data by [Junaid](https://www.abujuni.dev) ._
 
-**Stars API is Now online at https://starsapi.abujuni.dev (or) If any error than use : https://stars-api.onrender.com .**
+**Stars API is Now online at https://starsapi.abujuni.dev (or) https://stars-api.onrender.com .**
 
 ## Index
 
