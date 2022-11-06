@@ -37,8 +37,6 @@ http://127.0.0.1:5000/stars?name=sun
 {"data":{"Distance":1.5813e-05,"Gravity":274.2691614596,"Mass":1.0,"Radius":1.0,"Star_name":"Sun"},"message":"Success !"}
 ```
 
-_Note_:_Image URL's not inclued in this api , you want [Star Images Search API](#star-images-search-api) to get images for every star._
-
 ## Star Images Search API
 
 ![demo2](https://i.ibb.co/r6dT5SS/49d466e80992.png)
