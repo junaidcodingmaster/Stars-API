@@ -14,7 +14,7 @@ _Star Data by [Junaid](https://www.abujuni.dev) ._
 
 - [Stars Data API](#star-data-api)
 - [Star Data Search API](#star-data-search-api)
-- [Star Images Search API](#star-image-search-api)
+- [Star Images Search API](#star-images-search-api)
 - [Installation](#installation)
 
 ## Star Data API
