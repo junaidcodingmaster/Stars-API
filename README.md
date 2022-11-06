@@ -18,8 +18,8 @@ _Star Data by [Junaid](https://www.abujuni.dev) ._
 - Installation
 
 ## Star Data Search API
+![demo3](https://i.ibb.co/cDnL3WT/01ed951737e5.png)
 
-![demo2](https://i.ibb.co/r6dT5SS/49d466e80992.png)
 
 ```
 http://127.0.0.1:5000/stars?name=Proxima Centauri
@@ -41,8 +41,7 @@ _Note_:_Image URL's not inclued in this api , you want [Star Images Search API](
 
 ## Star Images Search API
 
-
-![demo3](https://i.ibb.co/cDnL3WT/01ed951737e5.png)
+![demo2](https://i.ibb.co/r6dT5SS/49d466e80992.png)
 
 ```
 http://127.0.0.1:5000/stars-img?name=Proxima Centauri
@@ -66,7 +65,6 @@ http://127.0.0.1:5000/stars-img?name=sun
 - Open terminal in that cloned folder and
 - Install all requirements using -> `pip install -r requirements.txt`
 - Than type -> `flask run`
-- You can see Star API is Launched at localhost.
-  Star Data API is hosting at http://127.0.0.1:5000/
+- Ola! , Star API is Launched at http://127.0.0.1:5000/
 
 **Made By [Junaid](https://www.abujuni.dev) .**
