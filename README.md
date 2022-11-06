@@ -12,10 +12,22 @@ _Star Data by [Junaid](https://www.abujuni.dev) ._
 
 ## Index
 
-- Stars Data API
-- Star Data Search API
-- Star Images Search API
-- Installation
+- [Stars Data API](#star-data-api)
+- [Star Data Search API](#star-data-search-api)
+- [Star Images Search API](#star-image-search-api)
+- [Installation](#installation)
+
+## Star Data API
+![demo1](https://i.ibb.co/3fgSsfz/2846f3d21b0c.png)
+_Star Data by [Junaid](https://www.abujuni.dev) ._
+
+Index page is the API which shows all stars in json format , every star data is in a array format .
+
+```
+http://127.0.0.1:5000/
+```
+
+_Tip : This API is easy to make a flatlist react app ._
 
 ## Star Data Search API
 ![demo3](https://i.ibb.co/cDnL3WT/01ed951737e5.png)
