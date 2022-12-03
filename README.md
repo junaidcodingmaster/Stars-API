@@ -69,7 +69,7 @@ http://127.0.0.1:5000/stars-img?name=sun
 {"img_url":"http://images-assets.nasa.gov/image/PIA18906/PIA18906~thumb.jpg","message":"Success !"}
 ```
 
-# Installation
+## Installation
 
 - Clone this repo
 - Open terminal in that cloned folder and
