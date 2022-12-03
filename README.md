@@ -75,6 +75,6 @@ http://127.0.0.1:5000/stars-img?name=sun
 - Open terminal in that cloned folder and
 - Install all requirements using -> `pip install -r requirements.txt`
 - Than type -> `flask run`
-- Ola! , Star API is Launched at http://127.0.0.1:5000/
+- heyy ! , Star API is running at http://127.0.0.1:5000/
 
 **Made By [Junaid](https://www.abujuni.dev) .**
