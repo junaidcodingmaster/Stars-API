@@ -1,5 +1,6 @@
 from flask import Flask, jsonify, request
 from data import *
+import sys
 
 db = data()
 
@@ -46,6 +47,11 @@ def search_img():
     
     return b
 
+SERVER_USE = True  # keep `False` for running it on localhost.
 
-if __name__ == '__main__':
-    app.run()
+if SERVER_USE == True:
+    if __name__ == "__main__":
+        app.run(host='0.0.0.0', port=int(sys.argv[1]))
+else:
+    if __name__ == '__main__':
+        app.run()
