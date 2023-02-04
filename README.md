@@ -1,5 +1,6 @@
 ![logo](./logo.png)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blueviolet.svg)](https://www.python.org/)  ![Stars API Version](https://img.shields.io/github/v/release/junaidcodingmaster/Stars-API)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blueviolet.svg)](https://www.python.org/)
+[![Version](https://img.shields.io/badge/version-2.2-green.svg)](https://github.com/junaidcodingmaster/Stars-API)
 # Stars API ⭐🌟
 
 Get all the stars in the universe at one place with the Stars API. 
