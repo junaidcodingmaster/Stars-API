@@ -29,9 +29,9 @@ def search():
         pass
         
     if anyError == True:
-        a = (jsonify({"data": "Data Not Found !", "message": "Data Not Found !"}),404)
+        a = (jsonify({"data": {"distance":"Data Not Found !","gravity":"Data Not Found !","mass":"Data Not Found !","radius":"Data Not Found !","star_name":"Data Not Found !"}),404)
     else :
-        a = (jsonify({"data": star_data, "message": "Success !"}),200)  
+        a = (jsonify({"data": star_data),200)  
           
     return a
 
