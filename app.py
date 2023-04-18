@@ -31,7 +31,7 @@ def search():
         a = (jsonify({"data": {"distance":"Image Not Found !","gravity":"Image Not Found !","mass":"Image Not Found !","radius":"Image Not Found !","star_name":"Image Not Found !"}),404)
     else :
         a = (jsonify({"data": star_data, "message": "Success !"}),200)  
-          
+              
     return a
 
 
