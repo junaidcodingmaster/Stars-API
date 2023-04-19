@@ -29,7 +29,7 @@ def search():
         pass
         
     if anyError == True:
-        a = (jsonify({"data": "Data Not Found !", "message": "Data Not Found !"}),404)
+        a = (jsonify({"data": "Data Not Found !", "message": "Data Not Found !"}),200)
     else :
         a = (jsonify({"data": star_data, "message": "Success !"}),200)  
           
@@ -43,7 +43,7 @@ def search_img():
     star_data = star_img(name)
     
     if star_data == "ImageNotFound":
-        b = (jsonify({"img_url": star_data, "message": "Image Not Found !"}),404)
+        b = (jsonify({"img_url": star_data, "message": "Image Not Found !"}),200)
     else :
         b = (jsonify({"img_url": star_data, "message": "Success !"}),200)
     
