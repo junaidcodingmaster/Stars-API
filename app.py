@@ -43,7 +43,7 @@ def search_img():
     star_data = star_img(name)
     
     if star_data == "ImageNotFound":
-        b = (jsonify({"img_url": star_data, "message": "Image Not Found !"}),404)
+        b = (jsonify({"img_url": "https://raw.githubusercontent.com/junaidcodingmaster/Stars-API/main/404.png", "message": "Image Not Found !"}),404)
     else :
         b = (jsonify({"img_url": star_data, "message": "Success !"}),200)
     
