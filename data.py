@@ -1,6 +1,7 @@
 import requests
 import json
 import pandas as pd
+import random
 
 
 def data():
@@ -32,7 +33,8 @@ def star_img(star_name):
         h = g.json()
         ia = list(h)
         j = len(ia) - 2
-        k = ia[j]
+        k = ia[random.randint(0,j)]
         return k
     else :
         return "ImageNotFound"
+    
